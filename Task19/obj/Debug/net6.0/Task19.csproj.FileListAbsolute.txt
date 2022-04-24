@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork21.04\Task19\bin\Debug\net6.0\Task19.exe
+E:\работа с vcode\HomeWork21.04\Task19\bin\Debug\net6.0\Task19.deps.json
+E:\работа с vcode\HomeWork21.04\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+E:\работа с vcode\HomeWork21.04\Task19\bin\Debug\net6.0\Task19.dll
+E:\работа с vcode\HomeWork21.04\Task19\bin\Debug\net6.0\Task19.pdb
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.dll
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\refint\Task19.dll
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.pdb
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+E:\работа с vcode\HomeWork21.04\Task19\obj\Debug\net6.0\ref\Task19.dll
